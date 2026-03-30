@@ -15,3 +15,6 @@ __pycache__/
 
 # OS
 Thumbs.db
+
+# Archivos temporales de Word
+~$*
