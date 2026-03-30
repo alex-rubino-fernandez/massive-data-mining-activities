@@ -32,7 +32,7 @@ cd massive-data-mining-activities
 - Apache Hadoop HDFS
 - Google Cloud Dataproc
 - Jupyter Notebook
-- 
+
 ## Usage
 This code is for educational purposes as part of the Massive Data Mining course. Feel free to explore and learn from it. For any other use, please contact the author.
 
