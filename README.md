@@ -15,7 +15,8 @@ massive-data-mining-activities/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── act1-webserver-log-analysis/
+├── act1-webserver-log-analysis/
+└── act2-diabetes-classification-pyspark/
 ```
 
 ## Quick Start
